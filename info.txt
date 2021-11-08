@@ -1,0 +1,443 @@
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+equating  016  and  015  for  Pressure
+equating  017  and  015  for  Pressure
+equating  018  and  015  for  Pressure
+equating  019  and  015  for  Pressure
+equating  020  and  015  for  Pressure
+processing  016
+016  Pressure  198.9
+processing  017
+017  Pressure  198.9
+processing  018
+018  Pressure  198.9
+processing  019
+019  Pressure  198.9
+processing  020
+020  Pressure  198.9
+equating  012  and  016  for  Pressure
+equating  012  and  017  for  Pressure
+equating  012  and  018  for  Pressure
+equating  012  and  019  for  Pressure
+equating  012  and  020  for  Pressure
+processing  012
+012  Pressure  197.8
+processing  012
+012  Pressure  196.70000000000002
+processing  012
+012  Pressure  195.60000000000002
+processing  012
+012  Pressure  194.50000000000003
+processing  012
+012  Pressure  193.40000000000003
+equating  011  and  012  for  Pressure
+equating  011  and  012  for  Pressure
+equating  011  and  012  for  Pressure
+equating  011  and  012  for  Pressure
+equating  011  and  012  for  Pressure
+processing  011
+011  Pressure  192.30000000000004
+processing  011
+011  Pressure  191.20000000000005
+processing  011
+011  Pressure  190.10000000000005
+processing  011
+011  Pressure  189.00000000000006
+processing  011
+011  Pressure  187.90000000000006
+equating  010  and  011  for  Pressure
+equating  010  and  011  for  Pressure
+equating  010  and  011  for  Pressure
+equating  010  and  011  for  Pressure
+equating  010  and  011  for  Pressure
+processing  010
+010  Pressure  186.80000000000007
+processing  010
+010  Pressure  185.70000000000007
+processing  010
+010  Pressure  184.60000000000008
+processing  010
+010  Pressure  183.50000000000009
+processing  010
+010  Pressure  182.4000000000001
+equating  009  and  010  for  Pressure
+equating  009  and  010  for  Pressure
+equating  009  and  010  for  Pressure
+equating  009  and  010  for  Pressure
+equating  009  and  010  for  Pressure
+processing  009
+009  Pressure  181.3000000000001
+processing  009
+009  Pressure  180.2000000000001
+processing  009
+009  Pressure  179.1000000000001
+processing  009
+009  Pressure  178.0000000000001
+processing  009
+009  Pressure  176.90000000000012
+equating  008  and  009  for  Pressure
+equating  008  and  009  for  Pressure
+equating  008  and  009  for  Pressure
+equating  008  and  009  for  Pressure
+equating  008  and  009  for  Pressure
+processing  008
+008  Pressure  175.80000000000013
+processing  008
+008  Pressure  174.70000000000013
+processing  008
+008  Pressure  173.60000000000014
+processing  008
+008  Pressure  172.50000000000014
+processing  008
+008  Pressure  171.40000000000015
+equating  007  and  008  for  Pressure
+equating  007  and  008  for  Pressure
+equating  007  and  008  for  Pressure
+equating  007  and  008  for  Pressure
+equating  007  and  008  for  Pressure
+processing  007
+007  Pressure  170.30000000000015
+processing  007
+007  Pressure  169.20000000000016
+processing  007
+007  Pressure  168.10000000000016
+processing  007
+007  Pressure  167.00000000000017
+processing  007
+007  Pressure  165.90000000000018
+equating  006  and  007  for  Pressure
+equating  006  and  007  for  Pressure
+equating  006  and  007  for  Pressure
+equating  006  and  007  for  Pressure
+equating  006  and  007  for  Pressure
+processing  006
+006  Pressure  164.80000000000018
+processing  006
+006  Pressure  163.7000000000002
+processing  006
+006  Pressure  162.6000000000002
+processing  006
+006  Pressure  161.5000000000002
+processing  006
+006  Pressure  160.4000000000002
+equating  005  and  006  for  Pressure
+equating  005  and  006  for  Pressure
+equating  005  and  006  for  Pressure
+equating  005  and  006  for  Pressure
+equating  005  and  006  for  Pressure
+processing  005
+005  Pressure  159.3000000000002
+processing  005
+005  Pressure  158.20000000000022
+processing  005
+005  Pressure  157.10000000000022
+processing  005
+005  Pressure  156.00000000000023
+processing  005
+005  Pressure  154.90000000000023
+equating  004  and  005  for  Pressure
+equating  004  and  005  for  Pressure
+equating  004  and  005  for  Pressure
+equating  004  and  005  for  Pressure
+equating  004  and  005  for  Pressure
+processing  004
+004  Pressure  153.80000000000024
+processing  004
+004  Pressure  152.70000000000024
+processing  004
+004  Pressure  151.60000000000025
+processing  004
+004  Pressure  150.50000000000026
+processing  004
+004  Pressure  149.40000000000026
+equating  003  and  004  for  Pressure
+equating  003  and  004  for  Pressure
+equating  003  and  004  for  Pressure
+equating  003  and  004  for  Pressure
+equating  003  and  004  for  Pressure
+processing  003
+003  Pressure  148.30000000000027
+processing  003
+003  Pressure  147.20000000000027
+processing  003
+003  Pressure  146.10000000000028
+processing  003
+003  Pressure  145.00000000000028
+processing  003
+003  Pressure  143.9000000000003
+no sub process for  003
+no sub process for  003
+no sub process for  003
+no sub process for  003
+no sub process for  003
+equating  016  and  015  for  Pressure
+equating  017  and  015  for  Pressure
+equating  018  and  015  for  Pressure
+equating  019  and  015  for  Pressure
+equating  020  and  015  for  Pressure
+processing  016
+016  Pressure  198.9
+processing  017
+017  Pressure  198.9
+processing  018
+018  Pressure  198.9
+processing  019
+019  Pressure  198.9
+processing  020
+020  Pressure  198.9
+equating  012  and  016  for  Pressure
+equating  012  and  017  for  Pressure
+equating  012  and  018  for  Pressure
+equating  012  and  019  for  Pressure
+equating  012  and  020  for  Pressure
+processing  012
+012  Pressure  197.8
+processing  012
+012  Pressure  196.70000000000002
+processing  012
+012  Pressure  195.60000000000002
+processing  012
+012  Pressure  194.50000000000003
+processing  012
+012  Pressure  193.40000000000003
+equating  011  and  012  for  Pressure
+equating  011  and  012  for  Pressure
+equating  011  and  012  for  Pressure
+equating  011  and  012  for  Pressure
+equating  011  and  012  for  Pressure
+processing  011
+011  Pressure  192.30000000000004
+processing  011
+011  Pressure  191.20000000000005
+processing  011
+011  Pressure  190.10000000000005
+processing  011
+011  Pressure  189.00000000000006
+processing  011
+011  Pressure  187.90000000000006
+equating  010  and  011  for  Pressure
+equating  010  and  011  for  Pressure
+equating  010  and  011  for  Pressure
+equating  010  and  011  for  Pressure
+equating  010  and  011  for  Pressure
+processing  010
+010  Pressure  186.80000000000007
+processing  010
+010  Pressure  185.70000000000007
+processing  010
+010  Pressure  184.60000000000008
+processing  010
+010  Pressure  183.50000000000009
+processing  010
+010  Pressure  182.4000000000001
+equating  009  and  010  for  Pressure
+equating  009  and  010  for  Pressure
+equating  009  and  010  for  Pressure
+equating  009  and  010  for  Pressure
+equating  009  and  010  for  Pressure
+processing  009
+009  Pressure  181.3000000000001
+processing  009
+009  Pressure  180.2000000000001
+processing  009
+009  Pressure  179.1000000000001
+processing  009
+009  Pressure  178.0000000000001
+processing  009
+009  Pressure  176.90000000000012
+equating  008  and  009  for  Pressure
+equating  008  and  009  for  Pressure
+equating  008  and  009  for  Pressure
+equating  008  and  009  for  Pressure
+equating  008  and  009  for  Pressure
+processing  008
+008  Pressure  175.80000000000013
+processing  008
+008  Pressure  174.70000000000013
+processing  008
+008  Pressure  173.60000000000014
+processing  008
+008  Pressure  172.50000000000014
+processing  008
+008  Pressure  171.40000000000015
+equating  007  and  008  for  Pressure
+equating  007  and  008  for  Pressure
+equating  007  and  008  for  Pressure
+equating  007  and  008  for  Pressure
+equating  007  and  008  for  Pressure
+processing  007
+007  Pressure  170.30000000000015
+processing  007
+007  Pressure  169.20000000000016
+processing  007
+007  Pressure  168.10000000000016
+processing  007
+007  Pressure  167.00000000000017
+processing  007
+007  Pressure  165.90000000000018
+equating  006  and  007  for  Pressure
+equating  006  and  007  for  Pressure
+equating  006  and  007  for  Pressure
+equating  006  and  007  for  Pressure
+equating  006  and  007  for  Pressure
+processing  006
+006  Pressure  164.80000000000018
+processing  006
+006  Pressure  163.7000000000002
+processing  006
+006  Pressure  162.6000000000002
+processing  006
+006  Pressure  161.5000000000002
+processing  006
+006  Pressure  160.4000000000002
+equating  005  and  006  for  Pressure
+equating  005  and  006  for  Pressure
+equating  005  and  006  for  Pressure
+equating  005  and  006  for  Pressure
+equating  005  and  006  for  Pressure
+processing  005
+005  Pressure  159.3000000000002
+processing  005
+005  Pressure  158.20000000000022
+processing  005
+005  Pressure  157.10000000000022
+processing  005
+005  Pressure  156.00000000000023
+processing  005
+005  Pressure  154.90000000000023
+equating  004  and  005  for  Pressure
+equating  004  and  005  for  Pressure
+equating  004  and  005  for  Pressure
+equating  004  and  005  for  Pressure
+equating  004  and  005  for  Pressure
+processing  004
+004  Pressure  153.80000000000024
+processing  004
+004  Pressure  152.70000000000024
+processing  004
+004  Pressure  151.60000000000025
+processing  004
+004  Pressure  150.50000000000026
+processing  004
+004  Pressure  149.40000000000026
+equating  003  and  004  for  Pressure
+equating  003  and  004  for  Pressure
+equating  003  and  004  for  Pressure
+equating  003  and  004  for  Pressure
+equating  003  and  004  for  Pressure
+processing  003
+003  Pressure  148.30000000000027
+processing  003
+003  Pressure  147.20000000000027
+processing  003
+003  Pressure  146.10000000000028
+processing  003
+003  Pressure  145.00000000000028
+processing  003
+003  Pressure  143.9000000000003
+no sub process for  003
+no sub process for  003
+no sub process for  003
+no sub process for  003
+no sub process for  003
+equating  016  and  015  for  Pressure
+equating  017  and  015  for  Pressure
+equating  018  and  015  for  Pressure
+equating  019  and  015  for  Pressure
+equating  020  and  015  for  Pressure
+processing  016
+016  Pressure  198.9
+processing  017
+017  Pressure  198.9
+processing  018
+018  Pressure  198.9
+processing  019
+019  Pressure  198.9
+processing  020
+020  Pressure  198.9
+equating  012  and  016  for  Pressure
+equating  012  and  017  for  Pressure
+equating  012  and  018  for  Pressure
+equating  012  and  019  for  Pressure
+equating  012  and  020  for  Pressure
+equating  016  and  015  for  Pressure
+equating  017  and  015  for  Pressure
+equating  018  and  015  for  Pressure
+equating  019  and  015  for  Pressure
+equating  020  and  015  for  Pressure
+processing  016
+016  Pressure  198.9
+processing  017
+017  Pressure  198.9
+processing  018
+018  Pressure  198.9
+equating  016  and  015  for  Pressure
+equating  017  and  015  for  Pressure
+equating  018  and  015  for  Pressure
+equating  019  and  015  for  Pressure
+equating  020  and  015  for  Pressure
+processing  016
+016  Pressure  198.9
+processing  017
+017  Pressure  198.9
+processing  018
+018  Pressure  198.9
+processing  019
+019  Pressure  198.9
+processing  020
+020  Pressure  198.9
+equating  012  and  016  for  Pressure
+equating  012  and  017  for  Pressure
+equating  012  and  018  for  Pressure
+equating  012  and  019  for  Pressure
+equating  012  and  020  for  Pressure
+processing  012
+equating  016  and  015  for  Pressure
+equating  017  and  015  for  Pressure
+equating  018  and  015  for  Pressure
+equating  019  and  015  for  Pressure
+equating  020  and  015  for  Pressure
+processing  016
+016  Pressure  198.9
+processing  017
+017  Pressure  198.9
+processing  018
+018  Pressure  198.9
+processing  019
+019  Pressure  198.9
+processing  020
+020  Pressure  198.9
+equating  012  and  016  for  Pressure
+equating  012  and  017  for  Pressure
+equating  012  and  018  for  Pressure
+equating  016  and  015  for  Pressure
+equating  017  and  015  for  Pressure
+equating  018  and  015  for  Pressure
+equating  019  and  015  for  Pressure
+equating  020  and  015  for  Pressure
+processing  016
+016  Pressure  198.9
+processing  017
+017  Pressure  198.9
+processing  018
+018  Pressure  198.9
+processing  019
+019  Pressure  198.9
+processing  020
+020  Pressure  198.9
+equating  012  and  016  for  Pressure
+equating  012  and  017  for  Pressure
+equating  012  and  018  for  Pressure
+equating  012  and  019  for  Pressure
+equating  012  and  020  for  Pressure
+processing  012
+012  Pressure  197.8
+equating  016  and  015  for  Pressure
+equating  017  and  015  for  Pressure
+equating  018  and  015  for  Pressure
+equating  019  and  015  for  Pressure
+equating  020  and  015  for  Pressure
+processing  016
+016  Pressure  198.9
+processing  017
+017  Pressure  198.9
