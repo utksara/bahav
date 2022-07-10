@@ -4,13 +4,14 @@ PWD = .
 INCLUDE_JSON = -I ${PWD}/cpp_modules/dist/ ${PWD}/cpp_modules/dist/*.cpp
 INCLUDE_PRIMEORDEAL = -I ${PWD}/cpp_modules/primeordeal/  ${PWD}/cpp_modules/primeordeal/*.cpp
 INCLUDE_UTILS = -I ${PWD}/cpp_modules/  ${PWD}/cpp_modules/*.cpp
+INCLUDE_EIGEN = -I ${PWD}/cpp_modules/Eigen/
 
 .PHONY : clean
 clean:
 	rm ./*o
 	
 main:
-	g++ -std=c++11 main.cpp $(INCLUDE_JSON) $(INCLUDE_PRIMEORDEAL) $(INCLUDE_UTILS) processes.cpp -o ${ROOT}/cpp_bins/main
+	g++ -std=c++11 main.cpp $(INCLUDE_JSON) $(INCLUDE_PRIMEORDEAL) $(INCLUDE_UTILS) $(INCLUDE_EIGEN) processes.cpp -o ${ROOT}/cpp_bins/main
 
 parser:
 	g++ -std=c++11 $(PWD)/cpp_modules/parser/parser.cpp -o ${ROOT}/cpp_bins/parser

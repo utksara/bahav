@@ -12,7 +12,7 @@ using namespace std;
 
 int main(){
 
-    using namespace Eigen;
-    Matrix<double, Dynamic, Dynamic> m;
+    // using namespace Eigen;
+    // Matrix<double, Dynamic, Dynamic> m;
 
 }
