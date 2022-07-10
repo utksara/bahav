@@ -99,11 +99,92 @@ void draw_curve(map<string, string> data){
 }
 
 // template <class T>
-void draw_line(map<string, string> data) {
+
+
+string draw_line_multiple (const string &data){
+    int iter = 0;
+    string svg_path = "";
+    
+    istringstream ss(data);
+
+    string word; // for storing each word
+    int itertr = 0;
+    map<string, string> data_per_line; 
+    
+    while (ss >> word)
+    {        
+        if (itertr%3 == 0){
+            data_per_line.clear();
+            data_per_line.insert(pair<string, string>{"center", word});
+        }
+        if (itertr%3 == 1){
+            data_per_line.insert(pair<string, string>{"angle", word});
+        }
+        if (itertr%3 == 2){
+            data_per_line.insert(pair<string, string>{"length", word});
+            svg_path.append(draw_line(data_per_line));
+            svg_path.append(" ");
+        }
+        itertr +=1;
+    }
+
+    return svg_path;
+}
+
+vector <map<string, string>> * parse_lines (const string &data){
+    int iter = 0;
+    string svg_path = "";
+    
+    istringstream ss(data);
+
+    string word; // for storing each word
+    int itertr = 0;
+    map<string, string> data_per_line;
+    vector <map<string, string>>* vector_of_lines; 
+    
+    while (ss >> word)
+    {   
+        if (itertr%3 == 0){
+            data_per_line.clear();
+            data_per_line.insert(pair<string, string>{"center", word});
+        }
+        if (itertr%3 == 1){
+            data_per_line.insert(pair<string, string>{"angle", word});
+        }
+        if (itertr%3 == 2){
+            data_per_line.insert(pair<string, string>{"length", word});
+            svg_path.append(draw_line(data_per_line));
+            vector_of_lines->push_back(data_per_line);
+            svg_path.append(" ");
+        }
+        itertr +=1;
+    }
+
+    return vector_of_lines;
+}
+
+vector <map<string, string>> * normalise_line(vector <map<string, string>> *vector_of_lines){
+
+    vector <map<string, string>>* normalizied_vector_of_lines ;
+
+    float sumx = 0, sumy = 0, count = 0, maximx = FLT_MAX, minimx = FLT_MIN;
+    float maximy = FLT_MAX, minimy = FLT_MIN; 
+    for (auto line_data : *vector_of_lines){
+        Point p = parse_point_2D(line_data.at("center"));
+        sumx += p[0];
+        sumy += p[1];
+        count += 1;
+    }
+
+    float averagex = 
+}
+
+
+string draw_line(map<string, string> data) {
     Point center  = parse_point_2D(data.at("center"));
     float angle = parse_float_number(data.at("angle"));
     float length = parse_float_number(data.at("length"));
-    string svg_path = "M ";
+    string svg_path = "";
 
     stringstream ss;
 
@@ -131,8 +212,20 @@ void draw_line(map<string, string> data) {
     svg_path.append(" ");
     ss.str("");
 
+    return svg_path;
+}
+
+string complete_svg_path(const string &s){
+    
+    string svg_path = "M ";
+    svg_path.append(s);
     svg_path.append("Z");
-    cout << svg_path;
+
+    return svg_path;
+} 
+
+void show_svg_output(const string &s){
+    cout<< s;
 }
 
 void update_displacement_field(json process_request){
@@ -185,4 +278,9 @@ void update_displacement_field(json process_request){
     ofstream output_file("inputoutput/output_data.json", std::ifstream::binary);
     output_file << output_data;
     output_file.close();   
+}
+
+
+void create_visulaisation(json process_request){
+
 }
