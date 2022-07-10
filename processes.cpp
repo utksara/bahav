@@ -163,21 +163,21 @@ vector <map<string, string>> * parse_lines (const string &data){
     return vector_of_lines;
 }
 
-vector <map<string, string>> * normalise_line(vector <map<string, string>> *vector_of_lines){
+// vector <map<string, string>> * normalise_line(vector <map<string, string>> *vector_of_lines){
 
-    vector <map<string, string>>* normalizied_vector_of_lines ;
+//     vector <map<string, string>>* normalizied_vector_of_lines ;
 
-    float sumx = 0, sumy = 0, count = 0, maximx = FLT_MAX, minimx = FLT_MIN;
-    float maximy = FLT_MAX, minimy = FLT_MIN; 
-    for (auto line_data : *vector_of_lines){
-        Point p = parse_point_2D(line_data.at("center"));
-        sumx += p[0];
-        sumy += p[1];
-        count += 1;
-    }
+//     float sumx = 0, sumy = 0, count = 0, maximx = FLT_MAX, minimx = FLT_MIN;
+//     float maximy = FLT_MAX, minimy = FLT_MIN; 
+//     for (auto line_data : *vector_of_lines){
+//         Point p = parse_point_2D(line_data.at("center"));
+//         sumx += p[0];
+//         sumy += p[1];
+//         count += 1;
+//     }
 
-    float averagex = 
-}
+//     float averagex = 
+// }
 
 
 string draw_line(map<string, string> data) {
